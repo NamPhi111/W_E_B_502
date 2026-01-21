@@ -42,6 +42,12 @@ function ListPage() {
                 Name
               </th>
               <th className="px-4 py-2 border border-gray-300 text-left">
+                Credit
+              </th>
+              <th className="px-4 py-2 border border-gray-300 text-left">
+                Category
+              </th>
+              <th className="px-4 py-2 border border-gray-300 text-left">
                 Teacher
               </th>
               <th className="px-4 py-2 border border-gray-300 text-left">
@@ -58,9 +64,16 @@ function ListPage() {
                   {item.name}
                 </td>
                 <td className="px-4 py-2 border border-gray-300">
+                  {item.credit}
+                </td>
+                <td className="px-4 py-2 border border-gray-300">
+                  {item.category}
+                </td>
+                <td className="px-4 py-2 border border-gray-300">
                   {item.teacher}
                 </td>
                 <td className="px-4 py-2 border border-gray-300">Edit</td>
+                
               </tr>
             ))}
           </tbody>
