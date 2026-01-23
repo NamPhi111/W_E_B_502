@@ -29,70 +29,39 @@
       "teacher": "Phạm Văn D"
     },
     {
-      "id": "ecf3",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "e765",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "6290",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "55af",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "ce46",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "0de6",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "b45a",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "15e2",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "d281",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "0fa7",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "e0aa",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "dc09",
-      "title": "Lê Nam Phi"
-    },
-    {
-      "id": "dfae",
-      "title": "phi"
-    },
-    {
-      "id": "a0c5",
-      "name": "Lê Nam Phi",
-      "credit": 1,
-      "category": "Cơ sở",
-      "teacher": "nam phi"
-    },
-    {
-      "id": "eab8",
-      "name": "Tên sản phẩm điếu cày",
+      "id": "3956",
+      "name": "Tên sản phẩm điếu cày 11111",
       "credit": 3,
-      "category": "Chuyên ngành",
+      "category": "Cơ sở",
       "teacher": "Lê Nam Phi"
+    },
+    {
+      "id": "0843",
+      "name": "Giày sneaker",
+      "credit": 2,
+      "category": "Cơ sở",
+      "teacher": "Lê Nam Phi"
+    },
+    {
+      "id": "9f23",
+      "name": "Khóa học làm người",
+      "credit": 10,
+      "category": "Tự chọn",
+      "teacher": "Phi Híp"
+    },
+    {
+      "id": "8868",
+      "name": "Khóa học làm giàu",
+      "credit": 100,
+      "category": "Chuyên ngành",
+      "teacher": "Nguyễn Hải An"
+    },
+    {
+      "id": "e99a",
+      "name": "Khóa học làm game thủ",
+      "credit": 99,
+      "category": "Cơ sở",
+      "teacher": "Phan Trần Khánh Dư"
     }
   ]
 }

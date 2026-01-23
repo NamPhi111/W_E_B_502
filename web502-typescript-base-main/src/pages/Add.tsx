@@ -22,7 +22,7 @@ function AddPage() {
     try {
       await axios.post("http://localhost:3000/courses", values);
       alert("Thêm khóa học thành công!");
-      navigate("/");
+      navigate("/list");
     } catch {
       alert("Thêm thất bại!");
     }
