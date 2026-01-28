@@ -110,7 +110,7 @@ function ListPage() {
           <input
             value={keyword}
             onChange={(e) => setKeyword(e.target.value)}
-            placeholder="🔍 Tìm theo tên khóa học..."
+            placeholder=" Tìm theo tên khóa học..."
             className="border rounded-lg px-4 py-2 w-72"
           />
 
